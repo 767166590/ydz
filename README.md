@@ -5,7 +5,7 @@
 
 [Github's URL](https://github.com)
 
-[another markdown file](./md2.md)
+[another markdown file](./m2.md)
 
 ##### Picture from the directory
 
